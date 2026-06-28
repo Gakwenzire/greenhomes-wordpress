@@ -189,7 +189,6 @@ The following features can be added in future versions:
 
 ---
 
-```markdown
 # Screenshots
 
 ## Homepage
