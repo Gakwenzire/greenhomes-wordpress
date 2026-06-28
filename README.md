@@ -260,7 +260,7 @@ The footer provides quick navigation links, contact information, copyright detai
 The custom 404 page helps users recover from broken or invalid links by providing clear navigation back to the main sections of the website.
 
 ![404 Page](https://raw.githubusercontent.com/Gakwenzire/greenhomes-wordpress/main/screenshots/404-page.PNG)
-```
+
 
 # Project Links
 
